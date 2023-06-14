@@ -9,11 +9,11 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar)** -->
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+ - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** 
 
 - 📫 How to reach me **sudhirtakale99@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ **I Love to travel and play football.**
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
